@@ -1,0 +1,15 @@
+{
+  "name": "express_uploadfile",
+  "version": "1.0.0",
+  "description": "test upload file with express-fileupload",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo bello sus!"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-fileupload": "^0.4.0"
+  }
+}
